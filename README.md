@@ -28,7 +28,7 @@
 <p>
 <a href="https://www.linkedin.com/in/avani-singh-05a5731a2/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avani-singh-05a5731a2" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/avanisingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivani__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@avanisingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@shivani_gupta911" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/avanisingh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@shivani_gupta911" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/singhavani0105" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="singhavani0105" height="30" width="40" /></a>
 <a href="https://leetcode.com/avanisingh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="avanisingh" height="30" width="40" /></a>
 <a href="http://www.hackerearth.com/@avani101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@avani101" height="30" width="40" /></a>
