@@ -1,5 +1,5 @@
 <h1 align="center">I'm Avani Singh</h1>
-<h3 align="center">Pre-final year student at Netaji Subhas Institute of Technology majoring in Information Technology.</h3>
+<h3 align="center">Final year student at NSIT, Delhi majoring in Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanisingh0105&label=Profile%20views&color=0e75b6&style=flat" alt="avanisingh0105" /> </p>
 
